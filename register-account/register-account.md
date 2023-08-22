@@ -3,12 +3,6 @@
 ## Introduction
 
 
-**IMPOTANT**: When creating your Trial account 
-
-**Please Select**  the **US West (Phoenix)** Home Region.
-
-**You will not be able to create the Required Components for this workshop** if you select the **US EAST (Ashburn)** Home Region !!!
-
 Before you get started, you will need an Oracle Cloud account. 
 
 ### **Two Cloud Offers in One**
@@ -17,7 +11,7 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
 
 ### **What you will need**
 
-* The email address you used to register for the **MySQL Database Service Hands-On Workshop**
+* The email address you used to register for the **MySQL HeatWave Hands-On Workshop**
 * Ability to receive SMS text verification 
 
 
@@ -61,9 +55,7 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
        * Your **Cloud Account Name** will generate automatically based on your inputs, you can change that name by entering a new value. Remember what you wrote. You'll need this name later to sign in.
        * Choose a **Home Region**: 
 
-        Please select the **US West (Phoenix)** Home Region
-
-        **DO NOT Select** the **US EAST (Ashburn)** Home Region !!!!
+        Please select your Home Region
 
         **Your Home Region cannot be changed once you sign-up.**
         
