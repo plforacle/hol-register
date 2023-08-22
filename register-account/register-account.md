@@ -82,4 +82,4 @@ Oracle Cloud Free Tier allows you to sign up for an Oracle Cloud account which p
 ## **Acknowledgements**
 
 - **Created By/Date** - Anoosha Pilli, Product Manager, February 2021
-- **Last Updated By** - Perside Foster, March 2022
+- **Last Updated By** - Perside Foster, August 2023
